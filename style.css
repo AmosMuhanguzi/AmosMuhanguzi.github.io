@@ -11,6 +11,11 @@ body {
   font-family: "Poppins", sans-serif;
   background-color: snow white;
 }
+header{
+  border-top: 2px solid orange;
+  border-bottom: 2px solid orange;
+  background-color:smoke grey;
+}
 
 html {
   scroll-behavior: smooth;
