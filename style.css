@@ -12,8 +12,8 @@ body {
   background-color: snow white;
 }
 header{
-  border-top: 2px solid orange;
-  border-bottom: 2px solid orange;
+  border-top: 4px solid orange;
+  border-bottom: 4px solid orange;
   background-color:grey;
   padding:0;
   height:50%;
