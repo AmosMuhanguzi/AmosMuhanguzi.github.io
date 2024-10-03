@@ -553,5 +553,6 @@ footer p {
   }
   .text-container {
     text-align: justify;
+    color:black;
   }
 }
