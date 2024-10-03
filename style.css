@@ -14,7 +14,9 @@ body {
 header{
   border-top: 4px solid orange;
   border-bottom: 4px solid orange;
-  background-color:grey;
+  background-image:url('./assets/showcase.jpg');
+  background-repeat:no repeat;
+  background-size:cover;
   padding:0;
   margin:0;
   height:50%;
