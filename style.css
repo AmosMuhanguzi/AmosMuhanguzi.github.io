@@ -17,9 +17,6 @@ header{
   background-image:url('./assets/showcase.jpg');
   background-repeat:no repeat;
   background-size:cover;
-  padding:0;
-  margin:0;
-  height:50%;
 }
 
 html {
