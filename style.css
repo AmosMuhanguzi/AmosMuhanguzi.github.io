@@ -14,7 +14,9 @@ body {
 header{
   border-top: 2px solid orange;
   border-bottom: 2px solid orange;
-  background-color:smoke grey;
+  background-color:grey;
+  padding:0;
+  height:50%;
 }
 
 html {
