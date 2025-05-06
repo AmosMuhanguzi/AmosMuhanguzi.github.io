@@ -11,11 +11,12 @@ body {
   background: whitesmoke;
   color: #111;
   line-height: 1.6;
+  overflow-x: hidden;
 }
 
 .container {
   width: 90%;
-  max-width: 1200px;
+  max-width: 120%;
   margin: auto;
 }
 
@@ -27,7 +28,7 @@ header {
   font-size: medium;
 }
 .logo {
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 400;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -36,6 +37,7 @@ header {
   width: 75px;
   height: 75px;
   border: #ccc 4px solid;
+  text-align: center;
 }
 
 nav {
@@ -92,11 +94,12 @@ nav {
 
 .hero-text {
   text-align: center;
+  font-size: 1.2rem;
 }
 
 .hero-img img {
   width: 300px;
-  height: 300px;
+  height: 30%;
   object-fit: cover;
   border-radius: 50%;
   background:#35424a;
