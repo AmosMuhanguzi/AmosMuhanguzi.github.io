@@ -28,7 +28,7 @@ header {
   font-size: medium;
 }
 .logo {
-  font-size: 28px;
+  font-size: 20px;
   font-weight: 25px;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -36,6 +36,9 @@ header {
   width: 35px;
   height: 30px;
   padding: 0.5rem;
+  border-radius: 50%;
+  border: white 3px solid;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.2);
   text-align: center;
 }
 
@@ -48,7 +51,7 @@ nav {
 .nav-links {
   list-style: none;
   display: flex;
-  gap: 1rem;
+  gap: 0.3rem;
   font-size: 0.9rem;
 }
 
