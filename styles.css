@@ -242,10 +242,17 @@ nav {
   border-radius: 10px;
   box-shadow: 0 5px 15px rgba(0,0,0,0.1);
   transition: transform 0.3s ease;
-  width: 50%; /* Match the width of the input fields */
+  width: 75%;/* Match the width of the input fields */
   margin: 0 auto;
   font-size: medium;
   background-color: white;
+}
+input[type="text"],
+input[type="email"], 
+textarea {
+  width: 100%;
+  padding: 0.5rem;
+  height: 40%;
 }
 
 .social-links a {
