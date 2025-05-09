@@ -49,13 +49,14 @@ nav {
 .nav-links {
   list-style: none;
   display: flex;
-  gap: 1.5rem;
+  gap: 1rem;
+  font-size: 0.9rem;
 }
 
 .nav-links li a {
   color: #fff;
   text-decoration: none;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .btn-small {
