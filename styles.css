@@ -70,7 +70,8 @@ nav {
   color: white;
   text-decoration: none;
   font-size: 0.9rem;
-  align-items: center;
+  list-style: none;
+  justify-items: center;
 }
 
 .theme-btn {
@@ -238,7 +239,6 @@ nav {
   flex-direction: column;
   gap: 1rem;
   margin-top: 1rem;
-  background: whitesmoke;
   padding: 2rem;
   border-radius: 10px;
   box-shadow: 0 5px 15px rgba(0,0,0,0.1);
