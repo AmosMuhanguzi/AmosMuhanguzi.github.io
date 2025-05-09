@@ -28,15 +28,14 @@ header {
   font-size: medium;
 }
 .logo {
-  font-size: 30px;
-  font-weight: medium;
+  font-size: 28px;
+  font-weight: 25px;
   text-transform: uppercase;
   letter-spacing: 2px;
   text-align: left;
-  border-radius: 50%;
-  width: 75px;
-  height: 75px;
-  border: #ccc 4px solid;
+  width: 35px;
+  height: 30px;
+  padding: 0.5rem;
   text-align: center;
 }
 
