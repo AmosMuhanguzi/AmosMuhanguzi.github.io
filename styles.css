@@ -230,7 +230,6 @@ nav {
 #contact {
   padding: 4rem 0;
   text-align: center;
-  color: #000;
   font-size: 15px;
 }
 
@@ -246,6 +245,7 @@ nav {
   width: 50%; /* Match the width of the input fields */
   margin: 0 auto;
   font-size: medium;
+  background-color: white;
 }
 
 .social-links a {
