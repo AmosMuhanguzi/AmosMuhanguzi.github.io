@@ -65,6 +65,7 @@ nav {
   color: white;
   text-decoration: none;
   font-size: 0.9rem;
+  align-items: center;
 }
 
 .theme-btn {
@@ -150,9 +151,9 @@ nav {
 }
 
 .skills img {
-  width: 50px;
-  height: 45px;
-  border-radius: 50%;
+  width: 70px;
+  height: 65px;
+  border-radius: 70%;
 }
 
 /* Projects */
