@@ -275,6 +275,10 @@ textarea {
   transition: transform 0.3s ease;
 
 }
+.social-links img:hover {
+  transform: scale(1.2);
+  transition: transform 0.3s ease;
+}
 /* Footer */
 footer {
   padding: 2rem 0;
