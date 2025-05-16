@@ -5,11 +5,11 @@ toggle.addEventListener('click', () => {
 });
 
 // Contact Form Submit
-document.getElementById('contact-form').addEventListener('submit', function(e) {
-  e.preventDefault();
-  alert('Thanks for reaching out, Amos will reply shortly!');
-  this.reset();
-});
+//document.getElementById('contact-form').addEventListener('submit', function(e) {
+  //e.preventDefault();
+  //alert('Thanks for reaching out, Amos will reply shortly!');
+  //this.reset();
+//});
 
 // Filter Projects
 const filterButtons = document.querySelectorAll('.filter-btn');
