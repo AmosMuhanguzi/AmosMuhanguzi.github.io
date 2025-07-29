@@ -166,7 +166,7 @@ nav {
 .skills img {
   width: 70px;
   height: 65px;
-  border-radius: 70%;
+  border-radius: 60%;
 }
 
 /* Projects */
@@ -188,6 +188,12 @@ nav {
   border-radius: 10px;
   box-shadow: 0 5px 15px rgba(0,0,0,0.1);
   transition: transform 0.3s ease;
+}
+.project-card img {
+  width: 70px;
+  height: 65px;
+  object-fit: cover;
+  margin-top: 19px;
 }
 
 .project-card:hover {
