@@ -190,8 +190,8 @@ nav {
   transition: transform 0.3s ease;
 }
 .project-card img {
-  width: 70px;
-  height: 65px;
+  width: 35px;
+  height: 30px;
   object-fit: cover;
   margin-top: 19px;
 }
